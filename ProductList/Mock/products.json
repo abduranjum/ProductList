@@ -1,0 +1,39 @@
+{
+    "products" : [
+        {
+            "name" : "White Chair",
+            "id" : 0,
+            "tagline" : "Great if you like white!",
+            "rating" : 5,
+            "date" : "11-17-2018"
+        },
+        {
+            "name" : "Black Table",
+            "id" : 1,
+            "tagline" : "Intersting choice for people.",
+            "rating" : 4,
+            "date" : "10-26-2018"
+        },
+        {
+            "name" : "Yellow Lamp",
+            "id" : 2,
+            "tagline" : "Very bold!",
+            "rating" : 3,
+            "date" : "12-24-2018"
+        },
+        {
+            "name" : "Blue Stand",
+            "id" : 3,
+            "tagline" : "Stylish and sleek.",
+            "rating" : 2,
+            "date" : "5-22-2018"
+        },
+        {
+            "name" : "Plastic Desk",
+            "id" : 4,
+            "tagline" : "Classic.",
+            "rating" : 1,
+            "date" : "8-30-2018"
+        }
+    ]
+}
